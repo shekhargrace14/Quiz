@@ -1,0 +1,34 @@
+
+[
+  {
+
+    "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+    "correct_answer": "Year",
+    "option1": "Four Years",
+    "option2": "Two Years",
+    "option3": "Eight Years",
+    "option4": "Year"
+    
+  },
+  {
+
+    "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+    "correct_answer": "question2",
+    "option1": "option1",
+    "option2": "option2",
+    "option3": "question2",
+    "option4": "option4"
+    
+  },
+  {
+
+    "question": "Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...",
+    "correct_answer": "question3",
+    "option1": "question3",
+    "option2": "option2",
+    "option3": "option3",
+    "option4": "option4"
+    
+  }
+  
+]
